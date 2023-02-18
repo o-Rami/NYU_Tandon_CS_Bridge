@@ -1,6 +1,6 @@
 <h1 align="center"> NYU Tandon CS Bridge </h1>
  <p>
- <b>Awaiting certification!</b>
+ <b>Certification of Completion with Disctinction Acquired!</b>
 
  📫 **or2092@nyu.edu**
  </p>
