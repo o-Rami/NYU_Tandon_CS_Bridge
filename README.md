@@ -2,7 +2,7 @@
  <p>
  <b>Certification of Completion with Disctinction Acquired!</b>
 
- 📫 **or2092@nyu.edu**
+
  </p>
 
  <h3 align="left">Tool(s) & Language(s):</h3>
